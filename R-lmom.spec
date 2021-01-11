@@ -4,7 +4,7 @@
 #
 Name     : R-lmom
 Version  : 2.8
-Release  : 3
+Release  : 4
 URL      : https://cran.r-project.org/src/contrib/lmom_2.8.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/lmom_2.8.tar.gz
 Summary  : L-Moments
@@ -35,10 +35,10 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1610307430
+export SOURCE_DATE_EPOCH=1610381097
 
 %install
-export SOURCE_DATE_EPOCH=1610307430
+export SOURCE_DATE_EPOCH=1610381097
 rm -rf %{buildroot}
 export LANG=C.UTF-8
 export CFLAGS="$CFLAGS -O3 -flto -fno-semantic-interposition "
