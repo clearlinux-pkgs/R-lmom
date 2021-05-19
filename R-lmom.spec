@@ -4,7 +4,7 @@
 #
 Name     : R-lmom
 Version  : 2.8
-Release  : 11
+Release  : 12
 URL      : https://cran.r-project.org/src/contrib/lmom_2.8.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/lmom_2.8.tar.gz
 Summary  : L-Moments
