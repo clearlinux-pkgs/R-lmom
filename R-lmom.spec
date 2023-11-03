@@ -5,7 +5,7 @@
 #
 Name     : R-lmom
 Version  : 3.0
-Release  : 25
+Release  : 26
 URL      : https://cran.r-project.org/src/contrib/lmom_3.0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/lmom_3.0.tar.gz
 Summary  : L-Moments
